@@ -8,7 +8,7 @@ Training was done using 200 images, labelled using ImgLabel by 8 and 11 years ol
 I've used the Yolov5 model: https://github.com/ultralytics/yolov5
 
 The result looks promissing with detection of the "R2D2" named brick with average lighting and shaky camera.
-![brick result](https://github.com/tibocap/YoloBrick/Result.jpg?raw=true)
+![brick result](https://github.com/tibocap/YoloBrick/blob/main/Result.jpg)
 
 
 Next stage will be to port this on an Android phone to run easily over the pile of bricks.
