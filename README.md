@@ -1,6 +1,9 @@
 ## Machine Learning LEGO (R) Brick detection using Yolo engine
 
 The purpose of this project is to detect a specific piece of LEGO(R) in a pile of bricks.
+
+The brick is a green round one with a cross:
+![brick result](https://github.com/tibocap/YoloBrick/blob/main/Brick016w.Cross.png)
 The result works on a laptop using the built-in camera.
 
 Training was done using 200 images, labelled using ImgLabel by 8 and 11 years olds.
